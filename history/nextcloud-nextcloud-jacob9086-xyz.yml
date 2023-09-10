@@ -1,7 +1,7 @@
 url: https://nextcloud.jacob9086.xyz
-status: up
-code: 200
-responseTime: 1582
-lastUpdated: 2023-09-09T23:15:59.678Z
+status: down
+code: 502
+responseTime: 1182
+lastUpdated: 2023-09-10T06:37:45.269Z
 startTime: 2023-08-14T03:32:47.000Z
 generator: Upptime <https://github.com/upptime/upptime>
