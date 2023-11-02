@@ -21,15 +21,6 @@ sites:
   - name: Pterodactyl - panel.jacob9086.xyz
     url: https://panel.jacob9086.xyz
     showAverageResponseTime: false
-  - name: Jellyfin - watch.jacob9086.xyz
-    url: https://watch.jacob9086.xyz
-    showAverageResponseTime: false
-  - name: Koel - koel.jacob9086.xyz
-    url: https://koel.jacob9086.xyz
-    showAverageResponseTime: false
-  - name: Nextcloud - nextcloud.jacob9086.xyz
-    url: https://nextcloud.jacob9086.xyz
-    showAverageResponseTime: false
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
