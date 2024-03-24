@@ -3,23 +3,11 @@ owner: jacobvd0 # Your GitHub organization or username, where this repository li
 repo: status.jacob9086.xyz # The name of this repository
 
 sites:
-  - name: File Sharing - fileupload.zip
-    url: https://fileupload.zip
-    showAverageResponseTime: false
-  - name: File Sharing - share.jacob9086.xyz
-    url: https://share.jacob9086.xyz
-    showAverageResponseTime: false
   - name: Main Site - jacob9086.xyz
     url: https://jacob9086.xyz
     showAverageResponseTime: false
-  - name: Zipline - zipline.jacob9086.xyz
-    url: https://zipline.jacob9086.xyz
-    showAverageResponseTime: false
   - name: Legacy CDN - cdn.jacob9086.xyz
     url: https://cdn.jacob9086.xyz
-    showAverageResponseTime: false
-  - name: Pterodactyl - panel.jacob9086.xyz
-    url: https://panel.jacob9086.xyz
     showAverageResponseTime: false
 
 status-website:
